@@ -1,0 +1,7 @@
+{
+  "name": "DysProject",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
